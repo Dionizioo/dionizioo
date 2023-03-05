@@ -2,7 +2,7 @@
 
 - 🔭 Hoje Trabalho em um estágio na área de Suporte e Infraestrura.
 - 🌱 Estou Cursando Ciência da Computação 4/8
-- 📫 Contate-me no email: vinipatrocinio.vd@gmail.como
+- 📫 Contate-me no email: vinipatrocinio.vd@gmail.com
 <div align="center">
   <a href="https://github.com/VinicDi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinicDi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
