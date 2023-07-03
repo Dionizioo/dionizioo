@@ -1,7 +1,7 @@
 ## Olá! Eu sou Dionizio, 
 
 - 🔭 Hoje Trabalho em um estágio na área de Suporte e Infraestrura.
-- 🌱 Estou Cursando Ciência da Computação 4/8
+- 🌱 Estou Cursando Ciência da Computação 6/8
 - 📫 Contate-me no email: vinipatrocinio.vd@gmail.com
 <div align="center">
   <a href="https://github.com/dionizioo">
