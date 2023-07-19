@@ -3,10 +3,9 @@
 - 🔭 Hoje Trabalho em um estágio na área de Suporte e Infraestrura.
 - 🌱 Estou Cursando Ciência da Computação 6/8
 - 📫 Contate-me no email: vinipatrocinio.vd@gmail.com
-<div align="center">
-  <a href="https://github.com/Dionizioo">
-</div>
-  
+
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Dionizioo&show_icons=true&theme=dracula&count_private=true)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Dio-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Dio-Css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
