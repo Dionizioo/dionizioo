@@ -1,4 +1,4 @@
-## Olá! Eu sou Dionizio, 
+![image](https://github.com/Dionizioo/dionizioo/assets/88460475/5a3be345-0e40-4294-bc93-70ddf21f4f02)## Olá! Eu sou Dionizio, 
 
 - 🔭 Hoje Trabalho em um estágio na área de Suporte e Infraestrura.
 - 🌱 Estou Cursando Ciência da Computação 6/8
@@ -26,8 +26,12 @@
 <div> 
   <a href = "vinipatrocinio.vd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-dionizio-6ab542217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
+  link:https://dionizioo.github.io/Portfolio/
+  ![image](https://github.com/Dionizioo/dionizioo/assets/88460475/a35619a7-73d4-42e2-b3e6-b374d479ed9e)
+
   ![Snake animation](https://github.com/Dionizioo/VinicDi/blob/output/github-contribution-grid-snake.svg)
+  
  
 </div>
 
