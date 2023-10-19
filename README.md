@@ -3,6 +3,7 @@
 - 🔭 Hoje Trabalho em um estágio na área de Suporte e Infraestrura.
 - 🌱 Estou Cursando Ciência da Computação 6/8
 - 📫 Contate-me no email: vinipatrocinio.vd@gmail.com
+- Repositório do Portfólio: https://dionizioo.github.io/Portfolio/
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Dionizioo&show_icons=true&theme=dracula&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dionizioo&layout=donut)
@@ -27,8 +28,7 @@
   <a href = "vinipatrocinio.vd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-dionizio-6ab542217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  link:https://dionizioo.github.io/Portfolio/
-  ![image](https://github.com/Dionizioo/dionizioo/assets/88460475/0bb67688-fe52-43d1-9c17-b6b33d05e0cf)
+  
 
   ![Snake animation](https://github.com/Dionizioo/VinicDi/blob/output/github-contribution-grid-snake.svg)
  
