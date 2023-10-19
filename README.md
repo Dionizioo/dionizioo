@@ -26,7 +26,10 @@
 <div> 
   <a href = "vinipatrocinio.vd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-dionizio-6ab542217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
+  link:https://dionizioo.github.io/Portfolio/
+  ![image](https://github.com/Dionizioo/dionizioo/assets/88460475/0bb67688-fe52-43d1-9c17-b6b33d05e0cf)
+
   ![Snake animation](https://github.com/Dionizioo/VinicDi/blob/output/github-contribution-grid-snake.svg)
  
 </div>
