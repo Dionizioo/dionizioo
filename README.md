@@ -6,7 +6,6 @@
 - Repositório do Portfólio: https://dionizioo.github.io/Portfolio/
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Dionizioo&show_icons=true&theme=dracula&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dionizioo&layout=donut)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dio-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
