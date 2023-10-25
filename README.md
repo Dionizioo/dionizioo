@@ -3,7 +3,7 @@
 - 🔭 Hoje Trabalho em um estágio na área de Suporte e Infraestrura.
 - 🌱 Estou Cursando Ciência da Computação 6/8
 - 📫 Contate-me no email: vinipatrocinio.vd@gmail.com
-- Repositório do Portfólio: https://dionizioo.github.io/Portfolio/
+
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Dionizioo&show_icons=true&theme=dracula&count_private=true)
 
