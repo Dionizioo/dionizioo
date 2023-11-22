@@ -1,6 +1,6 @@
 ## Olá! Eu sou Dionizio, 
 
-- 🔭 Hoje Trabalho em um estágio na área de Suporte e Infraestrura.
+- 🔭 Fututo Front-End
 - 🌱 Estou Cursando Ciência da Computação 6/8
 - 📫 Contate-me no email: vinipatrocinio.vd@gmail.com
 
