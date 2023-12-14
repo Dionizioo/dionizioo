@@ -1,7 +1,7 @@
 ## Olá! Eu sou Dionizio, 
 
 - 🔭 Futuro Front-End
-- 🌱 Estou Cursando Ciência da Computação 6/8
+- 🌱 Estou Cursando Ciência da Computação 7/8
 - 📫 Contate-me no email: vinipatrocinio.vd@gmail.com
 
 
