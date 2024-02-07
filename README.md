@@ -27,7 +27,7 @@
 <div>
   <h2>Últimos Projetos Feitos:</h2>
 
-### Projetos:
+### Projetos: https://dionizioo.github.io/gallery/
 
 <div style="display: flex; gap: 20px;">
 
