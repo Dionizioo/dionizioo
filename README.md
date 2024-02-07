@@ -26,27 +26,5 @@
 
 <div>
   <h2>Últimos Projetos Feitos:</h2>
+<a href="https://dionizioo.github.io/gallery/">Galeria de Projetos</a>
 
-### Projetos: https://dionizioo.github.io/gallery/
-
-<div style="display: flex; gap: 20px;">
-
-  <div style="flex: 1;">
-    <h3>Mario Jump Game 👾</h3>
-    <p>Minigame desenvolvido a partir de uma video-aula durante estudos e aprimoramento de conhecimentos na área do Javascript.</p>
-    <a href="https://dionizioo.github.io/GameMario/">Ver Projeto</a>
-  </div>
-
-  <div style="flex: 1;">
-    <h3>Diário de Pokémon 👾</h3>
-    <p>Este repositório abriga o projeto web "Diário de Pokémon", uma aplicação simples que proporciona a exploração de informações sobre diversos Pokémon. A interface foi cuidadosamente projetada com elementos interativos e visuais, visando oferecer aos usuários uma experiência imersiva no universo Pokémon.</p>
-    <a href="https://dionizioo.github.io/Pokedex/">Ver Projeto</a>
-  </div>
-
-  <div style="flex: 1;">
-    <h3>Projeto Movie API 🎬</h3>
-    <p>Bem-vindo ao projeto Movie API! Este repositório abriga uma aplicação web simples que permite buscar informações sobre filmes. A interface foi desenvolvida para proporcionar uma experiência amigável aos usuários, facilitando a descoberta de filmes de interesse.</p>
-    <a href="https://dionizioo.github.io/MovieApis/">Ver Projeto</a>
-  </div>
-
-</div>
