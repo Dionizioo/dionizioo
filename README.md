@@ -26,8 +26,9 @@
 
 <div>
   <h2>Últimos Projetos Feitos:</h2>
+  
 <h2>
-   <a href="https://dionizioo.github.io/gallery/">Ver Galeria</a>
+   <a href="https://dionizioo.github.io/gallery/">Veja minha Galeria Projetos!!</a>
 </h2>
 
 
