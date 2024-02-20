@@ -16,8 +16,16 @@
   <br>
   📫 Contate-me no email: vinipatrocinio.vd@gmail.com
   <br>
-  <a href="https://dionizioo.github.io/gallery/">Veja minha Galeria Projetos!!</a>
 </p>
+
+
+<div align=center>
+<a href="https://dionizioo.github.io/gallery/">
+  <img src="https://raw.githubusercontent.com/Dionizioo/dionizioo/main/images/projeto.png" alt="Galeria de Projetos" width="50">
+  <strong>Veja minha Galeria Projetos!!</strong>
+</a>
+</div>
+
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
