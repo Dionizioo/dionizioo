@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EBF71D&random=false&width=435&lines=Meu+Nome+%C3%A9+Dionizio">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BDF715&random=false&width=435&lines=Ol%C3%A1+meu+nome+%C3%A9+Dionizio%2C+Bem+Vindo!!!">
   </a>
 </h1>
 
@@ -16,17 +16,19 @@
   <br>
   📫 Contate-me no email: vinipatrocinio.vd@gmail.com
   <br>
-</p>
+ <br>
+  <strong> Veja meus novos projetos clicando na "Galeria" e meus repositórios logo abaixo da página </strong>
 
+<br>
+
+</p>
 
 <div align=center>
 <a href="https://dionizioo.github.io/gallery/">
   <img src="https://raw.githubusercontent.com/Dionizioo/dionizioo/main/images/projeto.png" alt="Galeria de Projetos" width="50">
-  <strong>Veja minha Galeria Projetos!!</strong>
+  <strong>Veja minha Galeria Projetos!!</strong
 </a>
 </div>
-
-
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
