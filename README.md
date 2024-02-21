@@ -83,9 +83,9 @@
   <a align="left" href="https://github.com/Dionizioo/Projetos-inteligencia-Artificial" title="Projetos Inteligência Artificial">
     <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dionizioo&repo=Projetos-inteligencia-Artificial&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a align="right" href="https://github.com/Dionizioo/Quiz-React-" title="Quiz React">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dionizioo&repo=Quiz-React-&theme=react&border_color=61dafb&border_radius=10">
-  </a>
+  <a align="right" href="https://github.com/Dionizioo/Projects_React" title="Projetos React">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dionizioo&repo=Projects_React&theme=react&border_color=61dafb&border_radius=10">
+</a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
