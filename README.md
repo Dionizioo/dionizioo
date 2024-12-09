@@ -9,10 +9,10 @@
 </h5>
 <br>
 <p align="center">
-  Olá, sou Dionizio e estou aqui para falar um pouco sobre mim. Atualmente, estou cursando Ciência da Computação e estou no 7º ano de 8. Sou apaixonado por aprender tecnologia e inovação, e sou impulsionado a usar todo esse conhecimento para resolver problemas complexos e criar impactos positivos na vida das pessoas. Futuro Front-End
+  Olá, sou Dionizio e estou aqui para falar um pouco sobre mim. Atualmente, Graduado em Ciência da Computação. Sou apaixonado por aprender tecnologia e inovação, e sou impulsionado a usar todo esse conhecimento para resolver problemas complexos e criar impactos positivos na vida das pessoas. Futuro Front-End
   <br>
   <br>
-  🌱 Estou Cursando Ciência da Computação 7/8
+  🌱 Bacharelado em Ciência da Computação
   <br>
   📫 Contate-me no email: vinipatrocinio.vd@gmail.com
   <br>
