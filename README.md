@@ -32,6 +32,11 @@
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
+<div align="center">
+  <a href="https://github.com/Dionizioo/Cetificados/blob/main/aws-educate-machine-learning-foundations%20(1).png">
+    <img src="https://github.com/Dionizioo/Cetificados/blob/main/aws-educate-machine-learning-foundations%20(1).png" alt="AWS Educate Machine Learning Foundations" width="200">
+  </a>
+</div>
 <p align="center">
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
@@ -67,12 +72,6 @@
 </p>
 
 <hr>
-
-<div align="center">
-  <a href="https://github.com/Dionizioo/Cetificados/blob/main/aws-educate-machine-learning-foundations%20(1).png">
-    <img src="https://github.com/Dionizioo/Cetificados/blob/main/aws-educate-machine-learning-foundations%20(1).png" alt="AWS Educate Machine Learning Foundations" width="200">
-  </a>
-</div>
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
