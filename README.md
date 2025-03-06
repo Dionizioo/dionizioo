@@ -68,6 +68,12 @@
 
 <hr>
 
+<div align="center">
+  <a href="https://github.com/Dionizioo/Cetificados/blob/main/aws-educate-machine-learning-foundations%20(1).png">
+    <img src="https://github.com/Dionizioo/Projetos-em-HTML/blob/main/aws-educate-machine-learning-foundations.png" alt="AWS Educate Machine Learning Foundations" width="200">
+  </a>
+</div>
+
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
