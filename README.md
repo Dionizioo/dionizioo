@@ -9,7 +9,7 @@
 </h5>
 <br>
 <p align="center">
-  Olá, sou Dionizio e estou aqui para falar um pouco sobre mim. Atualmente, Graduado em Ciência da Computação. Sou apaixonado por aprender tecnologia e inovação, e sou impulsionado a usar todo esse conhecimento para resolver problemas complexos e criar impactos positivos na vida das pessoas. Futuro Front-End
+  Olá, sou Dionizio e estou aqui para falar um pouco sobre mim. Atualmente, Graduado em Ciência da Computação. Sou apaixonado por aprender tecnologia e inovação, e sou impulsionado a usar todo esse conhecimento para resolver problemas complexos e criar impactos positivos na vida das pessoas.
   <br>
   <br>
   🌱 Bacharelado em Ciência da Computação
