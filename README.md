@@ -50,26 +50,20 @@
 
 <h2 align="center">👨‍💻 Repositórios em destaque</h2>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/Dionizioo/Projects_JavaScript">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dionizioo&repo=Projects_JavaScript&theme=react&border_color=61dafb&border_radius=10" height="115">
+    <img src="https://img.shields.io/badge/Projects_JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   </a>
   <a href="https://github.com/Dionizioo/Linguagem-Java">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dionizioo&repo=Linguagem-Java&theme=react&border_color=61dafb&border_radius=10" height="115">
+    <img src="https://img.shields.io/badge/Linguagem_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   </a>
-</div>
-
-<div align="center">
   <a href="https://github.com/Dionizioo/Projetos-inteligencia-Artificial">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dionizioo&repo=Projetos-inteligencia-Artificial&theme=react&border_color=61dafb&border_radius=10" height="115">
+    <img src="https://img.shields.io/badge/Projetos_IA-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
   <a href="https://github.com/Dionizioo/Projects_React">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dionizioo&repo=Projects_React&theme=react&border_color=61dafb&border_radius=10" height="115">
+    <img src="https://img.shields.io/badge/Projects_React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   </a>
-</div>
-
-<div align="center">
   <a href="https://github.com/Dionizioo/Movie_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dionizioo&repo=Movie_Project&theme=react&border_color=61dafb&border_radius=10" height="115">
+    <img src="https://img.shields.io/badge/Movie_Project-E50914?style=for-the-badge&logo=imdb&logoColor=white">
   </a>
-</div>
+</p>
