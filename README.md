@@ -43,7 +43,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Dionizioo&theme=midnight-purple" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dionizioo&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" height="150">
+ 
 </p>
 
 ---
